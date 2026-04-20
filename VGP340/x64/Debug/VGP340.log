@@ -1,7 +1,13 @@
 ﻿  VGP340.cpp
-C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP340\VGP340.cpp(136,15): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
-C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP340\VGP340.cpp(136,15): warning C4244:         with
-C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP340\VGP340.cpp(136,15): warning C4244:         [
-C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP340\VGP340.cpp(136,15): warning C4244:             _Rep=__int64
-C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP340\VGP340.cpp(136,15): warning C4244:         ]
-  VGP340.vcxproj -> C:\Users\stral\Desktop\Universidad\Term10\VGP340\x64\Debug\VGP340.exe
+C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP336_Assignment1\VGP340\VGP340.cpp(146,15): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP336_Assignment1\VGP340\VGP340.cpp(146,15): warning C4244:         with
+C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP336_Assignment1\VGP340\VGP340.cpp(146,15): warning C4244:         [
+C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP336_Assignment1\VGP340\VGP340.cpp(146,15): warning C4244:             _Rep=__int64
+C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP336_Assignment1\VGP340\VGP340.cpp(146,15): warning C4244:         ]
+C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP336_Assignment1\VGP340\VGP340.cpp(208,18): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP336_Assignment1\VGP340\VGP340.cpp(208,18): warning C4244:         with
+C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP336_Assignment1\VGP340\VGP340.cpp(208,18): warning C4244:         [
+C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP336_Assignment1\VGP340\VGP340.cpp(208,18): warning C4244:             _Rep=__int64
+C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP336_Assignment1\VGP340\VGP340.cpp(208,18): warning C4244:         ]
+C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP336_Assignment1\VGP340\VGP340.cpp(313,29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  VGP340.vcxproj -> C:\Users\stral\Desktop\Universidad\Term10\VGP340\VGP336_Assignment1\x64\Debug\VGP340.exe
